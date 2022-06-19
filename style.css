@@ -1080,6 +1080,16 @@ textarea
 	cursor: pointer;
 }
 
+#submit:hover
+{
+	background-color: white;
+	color: black;
+}
+
+#submit:active{
+	background-color: cyan;
+}
+
 .contact i.fa
 {
 	margin-right: 15px;
@@ -1098,3 +1108,4 @@ a.one:link {color:#e84118;}
 a.one:visited {color:#bbb;}
 a.one:hover {color:#ffcc00;}
 a.one:active{color: hotpink;}
+
