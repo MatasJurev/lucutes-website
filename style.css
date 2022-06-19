@@ -1087,7 +1087,8 @@ textarea
 }
 
 #submit:active{
-	background-color: cyan;
+	background-color: #0052FF;
+	color: white;
 }
 
 .contact i.fa
