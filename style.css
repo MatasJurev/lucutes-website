@@ -911,6 +911,12 @@ ul.filter li.filter-active
 	background-color: #e84118;
 }
 
+.owl-carousel .item h4{
+  height: 10rem;
+  background: #4DC7A0;
+  margin: 1rem;
+}
+
 .quote .fa
 {
 	font-size: 30px;
