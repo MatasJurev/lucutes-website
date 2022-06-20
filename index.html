@@ -3,6 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="referrer" content="origin">
 	<title>LMR – Portfolio Website 2K22</title>
 
 	<!-- additional css file links -->
@@ -650,24 +651,22 @@
 				</div>
 			</div>
 		</div>
-    	<form action="mailto:lukas.rusas@vdu.lt"
-method="POST"
-enctype="text/plain"
-name="EmailForm">
+    	<form action="https://formspree.io/f/myyoazpp"
+method="POST" target="_blank">
 		
 		<div class="contact-form animation" data-animation="zoomIn">
 			<div class="row">
 				<div class="col-md-6">
-					<input type="text" id="name" name="Name " placeholder="Enter your name..."><br>
+					<input type="text" id="name" name="Name:" placeholder="Enter your name..." required><br>
 				</div>
 				<div class="col-md-6">
-					<input type="email" id="email" name="E-mail " placeholder="Enter your e-mail..."><br>
+					<input type="email" id="email" name="E-mail:" placeholder="Enter your e-mail..." required><br>
 				</div>
 			</div>
 
 			<div class="row">
 				<div class="col-md-12 text-center">
-					<textarea id="message" name="Message " rows="10" placeholder="Enter your message..."></textarea><br><br>
+					<textarea id="message" name="Message:" rows="10" placeholder="Enter your message..." required></textarea><br><br>
 					<input type="submit" class="" id="submit" value="Submit">
 				</div>
 			</div>
