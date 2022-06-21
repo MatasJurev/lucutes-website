@@ -75,7 +75,7 @@ doc.ready(function(){
 			$(this.element).addClass("animated "+cssvalue);
 			$(this.element).css('opacity','1').fadeIn(2000);
 		  },
-		  offset: '90%'
+		  offset: '85%'
 		})
 
 	});
@@ -110,5 +110,4 @@ doc.ready(function(){
 	 	rewind:true,
 	 	autoplay:false
 	 });
-
 });
