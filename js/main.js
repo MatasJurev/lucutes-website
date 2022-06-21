@@ -100,7 +100,15 @@ doc.ready(function(){
 
 	 	items:1,
 	 	autoplay:true,
-	 	rewind:true
+	 	rewind:true,
+	 	autoplay:true
+	 });
+	  $(".blog-container").owlCarousel({
+
+	 	items:1,
+	 	autoplay:true,
+	 	rewind:true,
+	 	autoplay:false
 	 });
 
 });

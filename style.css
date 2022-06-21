@@ -859,6 +859,16 @@ ul.filter li.filter-active
 	margin-top: 60px;
 }
 
+.blog .section-header,.blog .blog-container
+{
+	z-index: 1;
+}
+
+.blog-container
+{
+	margin-top: 60px;
+}
+
 .testi-img
 {
 	width: 100px;
@@ -903,6 +913,7 @@ ul.filter li.filter-active
 	height: 10px;
 	border-radius: 5px;
 	margin:0 5px;
+	margin-top: 100px;
 	background-color: #fff;
 }
 
@@ -924,10 +935,9 @@ ul.filter li.filter-active
 }
 
 /** blog styles **/
-
 .blog .section-header
 {
-	margin-bottom: 60px;
+	margin-bottom: -30px;
 }
 
 .post-image
