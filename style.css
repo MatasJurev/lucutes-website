@@ -96,6 +96,7 @@ h1,h2,h3,h4,h5,h6
 {
 	padding: 120px 0;
 	padding-bottom: 20px;
+	padding-top: 30px;
 }
 
 
@@ -1009,7 +1010,7 @@ ul.filter li.filter-active
 
 .post-date
 {
-	color: #333;
+	color: #FFA980;
 	font-weight: bold;
 	margin-left: 20px;
 }
