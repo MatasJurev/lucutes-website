@@ -40,6 +40,8 @@ body
 }
 
 .animated {
+	-o-animation-duration: 1.5s;
+	-moz-animation-duration: 1.5s;
     -webkit-animation-duration: 1.5s;
     animation-duration: 1.5s;
     }

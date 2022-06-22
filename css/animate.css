@@ -2917,6 +2917,8 @@
 @-webkit-keyframes zoomIn {
   from {
     opacity: 0;
+    -o-transform: scale3d(0.3, 0.3, 0.3);;
+    -moz-tansform: scale3d(0.3, 0.3, 0.3);
     -webkit-transform: scale3d(0.3, 0.3, 0.3);
     transform: scale3d(0.3, 0.3, 0.3);
   }
