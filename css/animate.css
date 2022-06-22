@@ -3593,8 +3593,12 @@
 }
 
 .animated {
+  -o-animation-duration: 1s;
+    -moz-animation-duration: 1s;
   -webkit-animation-duration: 1s;
   animation-duration: 1s;
+  -o-animation-fill-mode: both;
+   -moz-animation-fill-mode: both;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
 }
@@ -3651,8 +3655,12 @@
 
 @media (prefers-reduced-motion) {
   .animated {
+    -o-animation: unset !important;
+    -moz-animation: unset !important;
     -webkit-animation: unset !important;
     animation: unset !important;
+    -o-transition: none !important;
+    -moz-transition: none !important;
     -webkit-transition: none !important;
     transition: none !important;
   }
