@@ -2931,6 +2931,8 @@
 @keyframes zoomIn {
   from {
     opacity: 0;
+    -o-transform: scale3d(0.3, 0.3, 0.3);;
+    -moz-tansform: scale3d(0.3, 0.3, 0.3);
     -webkit-transform: scale3d(0.3, 0.3, 0.3);
     transform: scale3d(0.3, 0.3, 0.3);
   }
@@ -2941,6 +2943,8 @@
 }
 
 .zoomIn {
+  -o-animation-name: zoomIn;
+  -moz-animation-name: zoomIn;
   -webkit-animation-name: zoomIn;
   animation-name: zoomIn;
 }
