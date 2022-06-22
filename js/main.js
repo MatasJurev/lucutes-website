@@ -57,7 +57,7 @@ doc.ready(function(){
 		    var value = $(this.element).attr('data-progress');
 			$(this.element).css('width',''+value+'%');
 		  },
-		  offset: '80%'
+		  offset: '75%'
 		})
 
 	});
@@ -80,11 +80,12 @@ doc.ready(function(){
 
 	});
 
-	
+
 
 	 var $grid = $('.portfolio-container').isotope({
 	  // options
-	  itemSelector: '.portfolio-item'
+	  itemSelector: '.portfolio-item',
+	  filter: '.modeling'
 	  
 	});
 
@@ -110,4 +111,5 @@ doc.ready(function(){
 	 	rewind:true,
 	 	autoplay:false
 	 });
+
 });
