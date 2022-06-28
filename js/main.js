@@ -57,7 +57,7 @@ doc.ready(function(){
 		    var value = $(this.element).attr('data-progress');
 			$(this.element).css('width',''+value+'%');
 		  },
-		  offset: '75%'
+		  offset: '87%'
 		})
 
 	});
