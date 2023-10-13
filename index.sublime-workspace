@@ -1,0 +1,280 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fade",
+				"fadeInLeft"
+			],
+			[
+				"data",
+				"data-animation"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"port",
+				"portfolio-item"
+			],
+			[
+				"fil",
+				"filter-active"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"anima",
+				"animation-duration"
+			],
+			[
+				"section",
+				"section-padding"
+			],
+			[
+				"center",
+				"align-self-center"
+			],
+			[
+				"blu",
+				"skyblue"
+			],
+			[
+				"cyan",
+				"lightcyan"
+			],
+			[
+				"ow",
+				"owl-carousel"
+			],
+			[
+				"post",
+				"post-image"
+			],
+			[
+				"post-",
+				"post-image"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"rgb",
+				"rgb()"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"navb",
+				"navbar-toggler"
+			],
+			[
+				"head",
+				"header"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/marij/Desktop/VDU/3_kursas/2/Interneto technologijos [INF3002MOK]/3prakt/domBom/js/dombomtest.js",
+		"/C/Users/marij/Desktop/VDU/3_kursas/2/Interneto technologijos [INF3002MOK]/3prakt/domBom/style.css",
+		"/C/Users/marij/Desktop/VDU/3_kursas/2/Interneto technologijos [INF3002MOK]/3prakt/domBom/index.html",
+		"/C/Users/marij/Downloads/1_LD/index.html",
+		"/C/Users/marij/Downloads/Lab_template/styles/main.css",
+		"/C/Users/marij/Desktop/CSS_HTML-web/resources/bbdLOL/gitpages/lucutes.github.io/index.html",
+		"/C/Users/marij/Downloads/Lab_template/index.html",
+		"/C/Users/marij/Desktop/CSS_HTML-web/resources/bbdLOL/gitpages/lucutes.github.io/js/myparticles.js",
+		"/C/Users/marij/Desktop/CSS_HTML-web/resources/bbdLOL/gitpages/lucutes.github.io/js/isotope.js",
+		"/C/Users/marij/Desktop/CSS_HTML-web/resources/bbdLOL/gitpages/lucutes.github.io/css/owl.carousel.min.css",
+		"/C/Users/marij/Desktop/CSS_HTML-web/resources/bbdLOL/gitpages/lucutes.github.io/css/responsive.css",
+		"/C/Users/marij/Desktop/CSS_HTML-web/resources/bbdLOL/gitpages/lucutes.github.io/js/owl.carousel.min.js",
+		"/C/Users/marij/Desktop/CSS_HTML-web/resources/bbdLOL/gitpages/lucutes.github.io/script.js",
+		"/C/Users/marij/Desktop/CSS_HTML-web/resources/bbdLOL/gitpages/lucutes.github.io/js/main.js",
+		"/C/Users/marij/Desktop/CSS_HTML-web/resources/bbdLOL/gitpages/lucutes.github.io/js/jquery.nav.js",
+		"/C/Users/marij/Desktop/CSS_HTML-web/resources/bbdLOL/gitpages/lucutes.github.io/css/animate.css",
+		"/C/Users/marij/Desktop/CSS_HTML-web/resources/bbdLOL/gitpages/lucutes.github.io/style.css",
+		"/C/Users/marij/Desktop/CSS_HTML-web/resources/bbdLOL/gitpages/lucutes.github.io/js/script.js"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
