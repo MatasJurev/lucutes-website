@@ -15,8 +15,10 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="referrer" content="origin">
-	<title>LMR – Portfolio Website 2K24</title>
-	<!-- <title>LMR – Portfolio Website 2K22</title> -->
+	<title>LMR - Portfolio Website</title>
+	<script>
+		document.title = `LMR - Portfolio Website 2K${new Date().getFullYear().toString().slice(-2)}`;
+	</script>
 
 	<!-- additional css file links -->
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
@@ -912,7 +914,7 @@ method="POST" target="_blank">
 <!--<h1>This site has been visited <span id="visits"></span> times.</h1>-->
 <!-- 265## -->
 <footer class="text-center">
-	<div>Copyright &copy; 2024 <strong>LMR</strong> – All Rights Reserved.</div>
+	<div>Copyright &copy; <script>document.write(new Date().getFullYear());</script> <strong>LMR</strong> – All Rights Reserved.</div>
 </footer>
 
 <!-- js links -->
